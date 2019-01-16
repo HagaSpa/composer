@@ -1,0 +1,5 @@
+.terraform
+main.tf
+*.log
+*.tfstate
+*.backup
